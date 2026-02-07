@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
+  <rect width="200" height="40" fill="none"/>
+  <text x="40" y="30" font-family="sans-serif" font-size="24" font-weight="bold" fill="#333">田中不動産</text>
+  <rect x="0" y="0" width="30" height="30" fill="#FF6B00" rx="4"/>
+  <text x="8" y="22" font-family="sans-serif" font-size="20" font-weight="bold" fill="white">T</text>
+</svg>
+
